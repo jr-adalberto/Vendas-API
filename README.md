@@ -3,7 +3,6 @@
 
 Este é um pequeno projeto desenvolvido como parte de um desafio proposto por um amigo, com o objetivo de treinar habilidades relacionadas à criação de banco de dados com PostgreSQL, uso de chaves estrangeiras (foreign keys), desenvolvimento de endpoints de API e tratamento de exceções em um ambiente Spring Boot utilizando Java 17.
 
-(https://github.com/jr-adalberto/Vendas-API)
 
 # Visão Geral
 
